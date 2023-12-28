@@ -1,17 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T17:18:43.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="z1X4_j1E3rlBtObEiqXZ" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T17:36:39.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ne5vyuFNqkvtLr-MhoyI" version="22.1.15" type="github">
   <diagram name="Page-1" id="LcWGvoYMxE6iOq-XE7FD">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bjsVHaiQ5fxiq1dF0tkW-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="64" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="bjsVHaiQ5fxiq1dF0tkW-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
-          <mxGeometry x="470" y="190" width="64" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="bjsVHaiQ5fxiq1dF0tkW-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
-          <mxGeometry x="374" y="70" width="68" height="68" as="geometry" />
+          <mxGeometry x="480" y="242" width="64" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bjsVHaiQ5fxiq1dF0tkW-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
           <mxGeometry x="650" y="90" width="50" height="48" as="geometry" />
@@ -20,10 +14,22 @@
           <mxGeometry x="560" y="88" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bjsVHaiQ5fxiq1dF0tkW-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="190" width="64" height="52" as="geometry" />
+          <mxGeometry x="620" y="242" width="64" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="bjsVHaiQ5fxiq1dF0tkW-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="68" height="68" as="geometry" />
+        <mxCell id="bjsVHaiQ5fxiq1dF0tkW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="178" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bjsVHaiQ5fxiq1dF0tkW-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-10" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="bjsVHaiQ5fxiq1dF0tkW-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="238" y="230" width="64" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="bjsVHaiQ5fxiq1dF0tkW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjsVHaiQ5fxiq1dF0tkW-12" target="bjsVHaiQ5fxiq1dF0tkW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bjsVHaiQ5fxiq1dF0tkW-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="223" width="66" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
